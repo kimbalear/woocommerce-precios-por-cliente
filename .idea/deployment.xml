@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Pincel Server">
+    <serverData>
+      <paths name="Pincel Server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/dev/wp_gc" local="$PROJECT_DIR$" web="public_html/dev/wp_gc/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/dev/wp_gc/wp-content/uploads/2014/04" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/uploads/2014/04" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
+

@@ -1,0 +1,98 @@
+********************************************************************************
+PACKAGE-LOG: 2014-04-28 01:26:21
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.2
+WORDPRESS:	3.9
+PHP INFO:	5.3.25 | SAPI: cgi-fcgi
+SERVER:		Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips mod_bwlimited/1.4 mod_fcgid/2.3.6 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP
+MYSQLDUMP:    Not Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:28 | filtered:0 | create:28 
+FILTERED: [] 
+wp_blog_versions (0) 
+wp_blogs (1) 
+wp_commentmeta (0) 
+wp_comments (0) 
+wp_duplicator_packages (1) 
+wp_links (0) 
+wp_options (379) 
+wp_postmeta (126) 
+wp_posts (29) 
+wp_registration_log (0) 
+wp_signups (1) 
+wp_site (1) 
+wp_sitemeta (37) 
+wp_term_relationships (9) 
+wp_term_taxonomy (17) 
+wp_terms (17) 
+wp_usermeta (57) 
+wp_users (2) 
+wp_vtprd_purchase_log (0) 
+wp_vtprd_purchase_log_product (0) 
+wp_vtprd_purchase_log_product_rule (0) 
+wp_woocommerce_attribute_taxonomies (0) 
+wp_woocommerce_downloadable_product_permissions (0) 
+wp_woocommerce_order_itemmeta (0) 
+wp_woocommerce_order_items (0) 
+wp_woocommerce_tax_rate_locations (0) 
+wp_woocommerce_tax_rates (1) 
+wp_woocommerce_termmeta (0) 
+SQL CREATED: 20140428_distribuidoragcenlinea_535dae3d66e0f6570140428012621_database.sql 
+SQL FILE SIZE: 558.6KB 
+SQL RUNTIME: 0.05 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/masrenov/public_html/dev/wp_gc 
+ARCHIVE FILE: 20140428_distribuidoragcenlinea_535dae3d66e0f6570140428012621_archive.zip 
+FILTER DIRS:   
+FILTER EXTS:   
+---------------------------------------- 
+SCANNING 
+FILTERS *OFF* 
+Items archived [1020] flushing response. 
+Items archived [2076] flushing response. 
+STATS:	Dirs 323 | Files 2487 | Links 0 
+SIZE:	58.49MB 
+TIME:	5.85 sec. 
+---------------------------------------- 
+COMPRESSING 
+SQL ADDED: 20140428_distribuidoragcenlinea_535dae3d66e0f6570140428012621_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2811
+    [filename] => /home/masrenov/public_html/dev/wp_gc/wp-snapshots/tmp/20140428_distribuidoragcenlinea_535dae3d66e0f6570140428012621_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 18.91MB 
+ARCHIVE RUNTIME: 6.51 sec. 
+
+******************************************************************************** 
+INSTALLER: 
+******************************************************************************** 
+INSTALLER FILE: Build Start 
+INSTALLER FILE: Build Finished 
+INSTALLER FILE: Preping for use 
+INSTALLER FILE: Template parsed with new data 
+INSTALLER FILE: Complete [/home/masrenov/public_html/dev/wp_gc/wp-snapshots/tmp/20140428_distribuidoragcenlinea_535dae3d66e0f6570140428012621_installer.php] 
+
+********************************************************************************
+RECORD ID:[2]
+FILE SIZE: Archive:18.91MB | SQL:558.6KB | Installer:408.62KB
+TOTAL PROCESS RUNTIME: 7.10 sec.
+DONE PROCESSING => 20140428_distribuidoragcenlinea 2014-04-28 01:26:28
+********************************************************************************
+ 
